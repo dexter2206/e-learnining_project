@@ -8,4 +8,8 @@ Django, HTML, CSS, JavaScript.
 
 # Authors:
 
-This is a collaboration between vasalskyy and ewanie. 
+This is a collaboration between vasalskyy and ewanie.
+
+# Status:
+
+in progress
